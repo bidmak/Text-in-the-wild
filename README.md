@@ -64,7 +64,7 @@ Assessed the system's performance using metrics such as precision, recall, and F
 
 ## Acknowledgments
 
-- Dr Mohamed Elawady [Project supervisor]
+- Dr Mohamed Elawady [Github](https://github.com/mawady)
 
 This project is part of ongoing research in the field of computer vision and text recognition. Contributions and insights from the academic community are acknowledged.
 
